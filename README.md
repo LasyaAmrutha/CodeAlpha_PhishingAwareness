@@ -22,7 +22,13 @@ An interactive cyber security awareness website developed for the CodeAlpha Cybe
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+landing page
+types of phishing
+fake email example 
+quiz
+page responce right answer
+page responce wrong answer
+scorecard
 
 ## 🎯 Purpose
 
